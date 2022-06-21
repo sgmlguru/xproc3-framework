@@ -8,7 +8,7 @@ This contains a very basic XProc 3.0 editor environment, with XProc pipeline val
 This environment requires the following:
 
 * A recent (24.x) version of oXygen XML Editor
-* An XProc 3.0 processor such as [MorganaXProc-IIIs](https://www.xml-project.com/morganaxproc-iii/), if you want to actually run your pipelines rather than keeping them a theoretical exercise
+* An XProc 3.0 processor such as [MorganaXProc-III](https://www.xml-project.com/morganaxproc-iii/), if you want to actually run your pipelines rather than keeping them a theoretical exercise
 
 
 ## Setup
@@ -27,4 +27,4 @@ There are two "templates", one for `declare-step` and another for `library`.
 
 ## What If I Find a Bug?
 
-Drop me an [email](mailto:ari.nordstrom@gmail.com).
+Drop me an [email](mailto:ari.nordstrom@gmail.com). Or check the [available resources](https://xproc.org/specifications.html).
